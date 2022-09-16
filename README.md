@@ -4,7 +4,7 @@
 
 > Trilha Explorer
 
-Projeto contruido no evento Next Levl Week da Rocketseat.
+Projeto construido no evento Next Level Week da Rocketseat.
 
 [🔗 Clique aqui para acessar](https://nlw-esports-peach.vercel.app/)
 
